@@ -1,0 +1,11 @@
+.env
+kaggle.json
+
+# Datos descargados (no versionar)
+data/
+*.zip
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
